@@ -1,7 +1,7 @@
 #include <iostream>
 #include "message.h"
-using namepsace std;
+using namespace std;
 
 void message::printMessage(){
-    cout<<"Makefile Example\n";
+    cout << "Makefile Example\n";
 }
