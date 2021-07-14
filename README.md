@@ -10,4 +10,4 @@ Examples will be located in the examples folder
  https://opensource.com/article/18/8/what-how-makefile
 
  Paul Programming: How to Create a Simple Makefile - Introduction to Makefiles
- https://www.youtube.com/watch?v=_r7i5X0rXJk&t=364s
+ `https://www.youtube.com/watch?v=_r7i5X0rXJk&t=364s`
