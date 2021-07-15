@@ -3,7 +3,7 @@ Here we will set up some examples in how to use .makefiles
 
 
 ### Sources
-Example 0 had been taken from:
+Example 0 and Example 1.2 had been taken from:
 [Sachin Patil - Opensource.com: What is a Makefile and how does it work?](https://opensource.com/article/18/8/what-how-makefile "Sachin Patil - Opensource.com: What is a Makefile and how does it work?")
  
 
