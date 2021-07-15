@@ -15,7 +15,7 @@ Get into your linux based folder and clone the repo to your desired location ent
 `git clone https://github.com/NeneWang/CISC3140-make.git`
 <br>
 enter to your desired example folder and run to test the examples:<br>
-`cd CISC3140-make/Examples/example-0`
+`cd CISC3140-make/Examples/example-0`<br>
 `make`<br>
 [![How to run examples](https://github.com/NeneWang/CISC3140-make/blob/main/Assets/how%20to%20run%20examples.PNG?raw=true "How to run examples")](https://github.com/NeneWang/CISC3140-make/blob/main/Assets/how%20to%20run%20examples.PNG?raw=true "How to run examples")
 
