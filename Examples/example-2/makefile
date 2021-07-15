@@ -3,7 +3,6 @@ explain_code:
 	@echo "plese input -  MAKE generate  CN=[class Name] - to create the folders"
 generate:
 	@echo "Creating class folders for ${CN}..."
-	# touch file-{1..10}.txt
 	mkdir ${CN}/assigments
 	mkdir ${CN}/lectures
 	mkdir ${CN}/exams
