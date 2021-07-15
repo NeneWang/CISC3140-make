@@ -10,4 +10,4 @@ generate:
 	mkdir ${CN}/miscellaneous
 clean:
 	@echo "removing folders for ${CN}..."
-	rm -r ${CM}
+	rm -r ${CM}/
