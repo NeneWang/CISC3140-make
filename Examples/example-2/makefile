@@ -8,3 +8,6 @@ generate:
 	mkdir ${CN}/lectures
 	mkdir ${CN}/exams
 	mkdir ${CN}/miscellaneous
+clean:
+	@echo "removing folders for ${CN}..."
+	rm -r ${CM}
