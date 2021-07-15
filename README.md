@@ -19,3 +19,6 @@ enter to your desired example folder and run to test the examples:<br>
 `make`<br>
 [![How to run examples](https://github.com/NeneWang/CISC3140-make/blob/main/Assets/how%20to%20run%20examples.PNG?raw=true "How to run examples")](https://github.com/NeneWang/CISC3140-make/blob/main/Assets/how%20to%20run%20examples.PNG?raw=true "How to run examples")
 
+You can view the full yotube video tutorial here:
+[Makefile examples 0, 1,2](https://www.youtube.com/watch?v=klyg3IxCjFY "Makefile examples 0, 1, 2")
+
